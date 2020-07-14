@@ -1,4 +1,4 @@
-module dev.azure.com/farzadm/golang/termask.git
+module github.com/farzadmf/termask/pkg/mask
 
 go 1.14
 
